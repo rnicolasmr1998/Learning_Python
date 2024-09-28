@@ -1,0 +1,11 @@
+[09/27/2024 11:37:34 PM] INFO: Starting to process 'mylist'...
+[09/27/2024 11:37:34 PM] DEBUG: Value at position 0 is 1
+[09/27/2024 11:37:34 PM] DEBUG: Value at position 1 is 2
+[09/27/2024 11:37:34 PM] DEBUG: Value at position 2 is 3
+[09/27/2024 11:37:34 PM] ERROR: Faulty position: 3
+Traceback (most recent call last):
+  File "C:\Users\rnico\AppData\Local\Temp\ipykernel_8528\1243507691.py", line 15, in <module>
+    'Value at position %s is %s', position, mylist[position]
+                                            ~~~~~~^^^^^^^^^^
+IndexError: list index out of range
+[09/27/2024 11:37:34 PM] INFO: Done processing 'mylist'.
