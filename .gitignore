@@ -1,0 +1,42 @@
+# Python virtual environment
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.wheelhouse/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test coverage
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.cache
+pytest-debug.log
+
+# Others
+*.log
