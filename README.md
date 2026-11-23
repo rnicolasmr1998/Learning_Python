@@ -75,15 +75,17 @@ Modifique los valores de conexión de acuerdo a su entorno de base de datos.
 
 ## 📞 Contacto
 
-Desarrollado por Nicolas Marroquin.
+
+Desarrollado por **Nicolas Marroquin**.
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rnicolas98/" target="_blank"> <img align="center"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Nicolas Marroquin" height="30" width="40"
-  /> linkedin</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rnicolas.mr.98@gmail.com" target="_blank"> <img align="center"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Nicolas Marroquin" height="30"
-  width="40" /> rnicolas.mr.98@gmail.com </a>
+  <a href="https://www.linkedin.com/in/rnicolas98/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rnicolas.mr.98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <!-- ACKNOWLEDGMENTS -->
